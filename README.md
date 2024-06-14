@@ -26,3 +26,8 @@ This project aims to perform a simple analysis of Diwali sales using Python. Diw
 **Statistical Analysis**: Conduct statistical tests to validate hypotheses or identify patterns.
 
 **Documentation: Document your findings, methodologies, and conclusions in the README file and/or accompanying reports.**
+
+![1](https://github.com/Developewithkaushik/Python-Diwali-Sales-Analysis/assets/126674461/ab07d690-6f7f-4f59-87d8-76b6a57aa2b2)
+
+
+![2](https://github.com/Developewithkaushik/Python-Diwali-Sales-Analysis/assets/126674461/4a1c3ad7-e525-45fb-bdf2-52fe8bea1643)
